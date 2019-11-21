@@ -54,3 +54,23 @@ body{
     width:960px;
     height: 76px;
 }
+.fa-envelope-o:before{
+    content:"\f003";
+    color: lightcoral;
+    font-size: 50px;
+}
+.fa-linkedin:before{
+    content:"\f003";
+    color: lightcoral;
+    font-size: 50px;
+}
+.fa-github:before{
+    content:"\f003";
+    color: lightcoral;
+    font-size: 50px;
+}
+.html{
+    background-image: "assets/images/html.png";
+    z-index: -1;
+    opacity: 0.8;
+}
