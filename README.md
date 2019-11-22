@@ -1,6 +1,5 @@
 # Updated-Portfolio
-Bootstrap Assignment
-Bootstrap-Portfolio
+
 Technologies used:
 HTML
 CSS
