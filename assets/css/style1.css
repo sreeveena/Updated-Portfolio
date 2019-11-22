@@ -108,3 +108,7 @@ body{
     border-radius: 8px;
     background: rgb(240, 178, 178);
 }
+.profilePic{
+    width: 120px;
+    height: 120px;
+}
