@@ -65,14 +65,44 @@ body{
 }
 .fa-github:hover, 
 .fa-linkedin:hover, 
-.fa-envelope:hover {
+.fa-envelope-o:hover {
     transition: 0.9s;
     transform: rotateY(360deg);
 }
+.html,
+.css,
+.bootstrap,
+.javascript,
+.jquery,
+.firebase{
+    position: absolute;
+    opacity: 0.1;
+    width: 150px;
+    height: 150px;
+}
 .html{
-    background-image: "assets/images/html.png";
-    z-index: -1;
-    opacity: 0.8;
+    left: 35%;
+    top: 20%;
+}
+.css{
+    left: 55%;
+    top: 20%;
+}
+.bootstrap{
+    left: 75%;
+    top: 20%;
+}
+.javascript{
+    left: 15%;
+    top: 40%;
+}
+.jquery{
+    left: 35%;
+    top: 40%;
+}
+.firebase{
+    left: 55%;
+    top: 40%;
 }
 .resume{
     border-radius: 8px;
